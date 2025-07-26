@@ -6,22 +6,39 @@ Welcome to my GitHub profile — where I build things for fun and for real 🛠�
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **Modern Web Apps, Microservices, and Dev Tooling**
-- 🌱 Currently learning: `Rust`, `ElysiaJS`, `Edge Functions`, `tRPC`, and `AI Integration`
+- 🔭 Currently working on: **Cross-platform apps, API-first systems, and clean architecture**
+- 🌱 Currently learning: `Clean DDD`, `gRPC`, `Event-Driven`, and `DevOps pipelines`
 - 💬 Ask me about:
-  - Full-stack development (Next.js, NestJS, Elysia)
-  - Modern backend architecture (Monorepo, Microservices, DDD)
-  - Developer tooling (TurboRepo, Biome, ESLint, Docker)
-- 👯 Looking to collaborate on: Open-source tools, UI Libraries, or DX-focused packages
-- 🧰 Tech Stack:
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+  - Mobile development with **Flutter** & **Expo**
+  - Backend systems with **.NET** & **Golang**
+  - Full project lifecycle with **Agile**, **Jira**, and **Figma**
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend / Mobile:**
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat)
+
+**Backend / API:**
+
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+
+**Database / Infra:**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
+**Tools / Dev Workflow:**
+
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 ---
 
@@ -36,7 +53,7 @@ Welcome to my GitHub profile — where I build things for fun and for real 🛠�
 
 ## ✨ Fun Fact
 
-> I'm building my own component library + CLI tooling to help me and my team move faster — think of it as Tailwind x Radix x Turbo powered UI kit ⚡
+> I enjoy making scalable systems with clean code — and I secretly refactor things no one asked me to 😅
 
 ---
 
@@ -44,8 +61,7 @@ Welcome to my GitHub profile — where I build things for fun and for real 🛠�
 
 - Twitter: [@devaeem](https://twitter.com/devaeem)
 - GitHub: [devaeem](https://github.com/devaeem)
-- Blog: Coming soon...
 
 ---
 
-_Thanks for stopping by! Don't forget to ⭐ your favorite repos!_
+_Thanks for visiting my profile! ⭐ a repo if you like it — and keep building amazing things._
